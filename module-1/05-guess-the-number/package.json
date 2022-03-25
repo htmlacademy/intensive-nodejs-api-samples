@@ -1,0 +1,13 @@
+{
+  "name": "guess-the-number",
+  "version": "1.0.0",
+  "description": "A simple console game",
+  "main": "05-guess-the-number.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./05-guess-the-number.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HTML Academy",
+  "license": "MIT"
+}

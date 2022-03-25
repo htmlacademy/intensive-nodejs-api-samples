@@ -1,0 +1,16 @@
+{
+  "name": "guess-the-number-with-chalk",
+  "version": "1.0.0",
+  "description": "A simple console game",
+  "main": "07-guess-the-number-with-chalk.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./05-guess-the-number-with-chalk.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HTML Academy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
