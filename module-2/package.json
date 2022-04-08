@@ -1,0 +1,6 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "01-call-stack-part-with-timeout.js",
+  "type": "module"
+}

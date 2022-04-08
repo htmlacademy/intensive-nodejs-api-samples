@@ -1,0 +1,5 @@
+const myFunction = () => {
+  myFunction();
+};
+
+myFunction();
