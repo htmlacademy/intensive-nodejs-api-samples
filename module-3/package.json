@@ -1,0 +1,19 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "01-console-log-and-error.js",
+  "type": "module",
+  "scripts": {
+    "env": "cross-env NODE_ENV=production node 04-node-env.js",
+    "env::dev": "cross-env NODE_ENV=development node 04-node-env.js",
+    "env-without-cross-env": "NODE_ENV=production node 04-node-env.js",
+    "env-without-cross-env::dev": "NODE_ENV=development node 04-node-env.js",
+    "dotenv": "node -r dotenv/config 04-hello-env.js"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "pino": "^7.10.0"
+  }
+}
