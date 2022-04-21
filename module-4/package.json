@@ -1,0 +1,9 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "03-http-server.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
