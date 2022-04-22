@@ -1,0 +1,10 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "04-http-methods-and-routes.js",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}

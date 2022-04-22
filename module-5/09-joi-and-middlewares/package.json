@@ -1,0 +1,10 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^17.6.0"
+  }
+}
