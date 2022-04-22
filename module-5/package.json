@@ -1,0 +1,12 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "01-hello-express.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-formidable": "^1.2.0",
+    "joi": "^17.6.0",
+    "pino": "^7.10.0"
+  }
+}

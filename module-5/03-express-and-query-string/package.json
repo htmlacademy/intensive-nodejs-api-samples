@@ -1,0 +1,10 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03-express-and-query-string.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

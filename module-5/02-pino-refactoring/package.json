@@ -1,0 +1,15 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "debug": "LOG_LEVEL=debug node server.js | ./node_modules/.bin/pino-pretty"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pino": "^7.10.0",
+    "pino-pretty": "^7.6.1"
+  }
+}
