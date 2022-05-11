@@ -1,0 +1,10 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "main": "02-session.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.2"
+  }
+}
